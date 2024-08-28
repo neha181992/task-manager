@@ -1,0 +1,12 @@
+/* Main CSS pseudocode */
+
+/* Pseudocode for basic styles for the task management app */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.task-board {
+    display: flex;
+    flex-direction: column;
+}
